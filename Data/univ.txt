@@ -1,0 +1,232 @@
+Name	Location	Rank	Tuition and fees	Undergrad Enrollment
+Princeton University	Princeton, NJ	1.0	45320.0	5402.0
+Harvard University	Cambridge, MA	2.0	47074.0	6699.0
+University of Chicago	Chicago, IL	3.0	52491.0	5844.0
+Yale University	New Haven, CT	3.0	49480.0	5532.0
+Columbia University	New York, NY	5.0	55056.0	6102.0
+Stanford University	Stanford, CA	5.0	47940.0	6999.0
+Massachusetts Institute of Technology	Cambridge, MA	7.0	48452.0	4527.0
+Duke University	Durham, NC	8.0	51265.0	6639.0
+University of Pennsylvania	Philadelphia, PA	8.0	51464.0	9726.0
+Johns Hopkins University	Baltimore, MD	10.0	50410.0	6524.0
+Dartmouth College	Hanover, NH	11.0	51438.0	4307.0
+California Institute of Technology	Pasadena, CA	12.0	47577.0	1001.0
+Northwestern University	Evanston, IL	12.0	50855.0	8314.0
+Brown University	Providence, RI	14.0	51367.0	6652.0
+Cornell University	Ithaca, NY	15.0	50953.0	14315.0
+Rice University	Houston, TX	15.0	43918.0	3910.0
+University of Notre Dame	Notre Dame, IN	15.0	49685.0	8462.0
+Vanderbilt University	Nashville, TN	15.0	45610.0	6883.0
+Washington University in St. Louis	St. Louis, MO	19.0	49770.0	7504.0
+Emory University	Atlanta, GA	20.0	47954.0	6867.0
+Georgetown University	Washington, DC	20.0	50547.0	7562.0
+University of California--Berkeley	Berkeley, CA	20.0	40191.0	27496.0
+University of Southern California	Los Angeles, CA	23.0	52217.0	18810.0
+Carnegie Mellon University	Pittsburgh, PA	24.0	52040.0	6454.0
+University of California--Los Angeles	Los Angeles, CA	24.0	39518.0	29585.0
+University of Virginia	Charlottesville, VA	24.0	45066.0	16736.0
+Tufts University	Medford, MA	27.0	52430.0	5290.0
+University of Michigan--Ann Arbor	Ann Arbor, MI	27.0	43476.0	28312.0
+Wake Forest University	Winston-Salem, NC	27.0	49308.0	4871.0
+University of North Carolina--Chapel Hill	Chapel Hill, NC	30.0	33916.0	18415.0
+Boston College	Chestnut Hill, MA	31.0	51296.0	9192.0
+College of William & Mary	Williamsburg, VA	32.0	41718.0	6301.0
+University of Rochester	Rochester, NY	32.0	50142.0	6304.0
+Brandeis University	Waltham, MA	34.0	51570.0	3621.0
+Georgia Institute of Technology	Atlanta, GA	34.0	32404.0	15142.0
+New York University	New York, NY	36.0	49062.0	25722.0
+Case Western Reserve University	Cleveland, OH	37.0	46006.0	5121.0
+University of California--Santa Barbara	Santa Barbara, CA	37.0	40704.0	20607.0
+Boston University	Boston, MA	39.0	50240.0	17932.0
+Northeastern University	Boston, MA	39.0	47655.0	13697.0
+Rensselaer Polytechnic Institute	Troy, NY	39.0	50797.0	5864.0
+Tulane University	New Orleans, LA	39.0	51010.0	6662.0
+University of California--Irvine	Irvine, CA	39.0	39458.0	25256.0
+Lehigh University	Bethlehem, PA	44.0	48320.0	5075.0
+University of California--Davis	Davis, CA	44.0	40728.0	28384.0
+University of California--San Diego	La Jolla, CA	44.0	41387.0	26590.0
+University of Illinois--Urbana-Champaign	Champaign, IL	44.0	31320.0	33368.0
+University of Miami	Coral Gables, FL	44.0	47004.0	11122.0
+University of Wisconsin--Madison	Madison, WI	44.0	32738.0	31662.0
+Pepperdine University	Malibu, CA	50.0	50022.0	3533.0
+University of Florida	Gainesville, FL	50.0	28666.0	35043.0
+Villanova University	Villanova, PA	50.0	49280.0	6994.0
+Pennsylvania State University--University Park	University Park, PA	50.0	32382.0	40742.0
+Ohio State University--Columbus	Columbus, OH	54.0	29229.0	45289.0
+University of Washington	Seattle, WA	54.0	34791.0	31063.0
+George Washington University	Washington, DC	56.0	51950.0	11157.0
+Southern Methodist University	Dallas, TX	56.0	50358.0	6411.0
+University of Georgia	Athens, GA	56.0	29844.0	27547.0
+University of Texas--Austin	Austin, TX	56.0	34676.0	39619.0
+Fordham University	New York, NY	60.0	47317.0	8855.0
+Purdue University--West Lafayette	West Lafayette, IN	60.0	28804.0	29497.0
+Syracuse University	Syracuse, NY	60.0	45022.0	15196.0
+University of Connecticut	Storrs, CT	60.0	35858.0	18826.0
+University of Maryland--College Park	College Park, MD	60.0	32045.0	27443.0
+Worcester Polytechnic Institute	Worcester, MA	60.0	46994.0	4299.0
+Clemson University	Clemson, SC	66.0	32796.0	18016.0
+Yeshiva University	New York, NY	66.0	40670.0	2744.0
+Brigham Young University--Provo	Provo, UT	68.0	5300.0	30221.0
+University of Pittsburgh	Pittsburgh, PA	68.0	29758.0	18908.0
+Rutgers University--New Brunswick	Piscataway, NJ	70.0	30023.0	35484.0
+Baylor University	Waco, TX	71.0	42006.0	14189.0
+Stevens Institute of Technology	Hoboken, NJ	71.0	48838.0	2873.0
+University of Minnesota--Twin Cities	Minneapolis, MN	71.0	22210.0	34071.0
+American University	Washington, DC	74.0	44853.0	7909.0
+Clark University	Worcester, MA	74.0	43150.0	2397.0
+Texas A&M University--College Station	College Station, TX	74.0	28768.0	48960.0
+University of Massachusetts--Amherst	Amherst, MA	74.0	30123.0	22748.0
+Virginia Tech	Blacksburg, VA	74.0	29371.0	25384.0
+Miami University--Oxford	Oxford, OH	79.0	31592.0	16387.0
+University of California--Santa Cruz	Santa Cruz, CA	79.0	40241.0	16231.0
+University of Delaware	Newark, DE	79.0	31420.0	18322.0
+Colorado School of Mines	Golden, CO	82.0	34828.0	4608.0
+Michigan State University	East Lansing, MI	82.0	39090.0	39143.0
+Texas Christian University	Fort Worth, TX	82.0	42670.0	8894.0
+University of Iowa	Iowa City, IA	82.0	28413.0	23357.0
+Binghamton University--SUNY	Binghamton, NY	86.0	22164.0	13491.0
+Indiana University--Bloomington	Bloomington, IN	86.0	34246.0	38364.0
+Marquette University	Milwaukee, WI	86.0	38470.0	8334.0
+University of Denver	Denver, CO	86.0	46362.0	5758.0
+University of San Diego	San Diego, CA	86.0	46140.0	5647.0
+University of Tulsa	Tulsa, OK	86.0	38796.0	3478.0
+Florida State University	Tallahassee, FL	92.0	24673.0	32706.0
+North Carolina State University--Raleigh	Raleigh, NC	92.0	26399.0	24111.0
+University of Colorado--Boulder	Boulder, CO	92.0	35079.0	27010.0
+University of Vermont	Burlington, VT	92.0	40364.0	10973.0
+Drexel University	Philadelphia, PA	96.0	51030.0	14138.0
+Saint Louis University	St. Louis, MO	96.0	40726.0	8248.0
+Stony Brook University--SUNY	Stony Brook, NY	96.0	26266.0	16831.0
+Auburn University	Auburn, AL	99.0	28840.0	21786.0
+Loyola University Chicago	Chicago, IL	99.0	41384.0	11079.0
+SUNY College of Environmental Science and Forestry	Syracuse, NY	99.0	17620.0	1839.0
+University at Buffalo--SUNY	Buffalo, NY	99.0	26270.0	19951.0
+Illinois Institute of Technology	Chicago, IL	103.0	45214.0	2991.0
+University of Alabama	Tuscaloosa, AL	103.0	26950.0	31958.0
+University of Oregon	Eugene, OR	103.0	33442.0	20538.0
+University of Tennessee	Knoxville, TN	103.0	30858.0	21863.0
+Rochester Institute of Technology	Rochester, NY	107.0	38568.0	12607.0
+University of New Hampshire	Durham, NH	107.0	31424.0	13034.0
+University of San Francisco	San Francisco, CA	107.0	44494.0	6782.0
+University of South Carolina	Columbia, SC	107.0	31282.0	25237.0
+Iowa State University	Ames, IA	111.0	21483.0	30034.0
+University of Dayton	Dayton, OH	111.0	40940.0	8665.0
+University of Missouri	Columbia, MO	111.0	25892.0	27812.0
+University of Nebraska--Lincoln	Lincoln, NE	111.0	23148.0	20182.0
+University of Oklahoma	Norman, OK	111.0	21451.0	22132.0
+University of the Pacific	Stockton, CA	111.0	44588.0	3735.0
+University of Utah	Salt Lake City, UT	111.0	27039.0	23794.0
+Michigan Technological University	Houghton, MI	118.0	30968.0	5721.0
+Seton Hall University	South Orange, NJ	118.0	39258.0	6090.0
+Temple University	Philadelphia, PA	118.0	25994.0	28609.0
+University of California--Riverside	Riverside, CA	118.0	40263.0	18608.0
+University of Kansas	Lawrence, KS	118.0	25932.0	19245.0
+University of St. Thomas	St. Paul, MN	118.0	39594.0	6240.0
+The Catholic University of America	Washington, DC	124.0	42536.0	3480.0
+DePaul University	Chicago, IL	124.0	37626.0	15961.0
+Duquesne University	Pittsburgh, PA	124.0	35062.0	5961.0
+Howard University	Washington, DC	124.0	24908.0	6883.0
+University of Arizona	Tucson, AZ	124.0	30025.0	33732.0
+Arizona State University--Tempe	Tempe, AZ	129.0	25458.0	41828.0
+Clarkson University	Potsdam, NY	129.0	46132.0	3257.0
+Colorado State University	Fort Collins, CO	129.0	28374.0	24433.0
+New School	New York, NY	129.0	45535.0	6792.0
+Hofstra University	Hempstead, NY	133.0	42160.0	6824.0
+University of Kentucky	Lexington, KY	133.0	26334.0	22705.0
+Kansas State University	Manhattan, KS	135.0	23429.0	19859.0
+Louisiana State University--Baton Rouge	Baton Rouge, LA	135.0	27005.0	26156.0
+Mercer University	Macon, GA	135.0	35130.0	4667.0
+New Jersey Institute of Technology	Newark, NJ	135.0	30326.0	8008.0
+Rutgers University--Newark	Newark, NJ	135.0	29480.0	7713.0
+University of Arkansas	Fayetteville, AR	135.0	23168.0	22159.0
+University of Cincinnati	Cincinnati, OH	135.0	26334.0	25054.0
+University of Mississippi	University, MS	135.0	22012.0	18785.0
+George Mason University	Fairfax, VA	143.0	32582.0	23062.0
+Oregon State University	Corvallis, OR	143.0	28846.0	24612.0
+Washington State University	Pullman, WA	143.0	25673.0	24470.0
+Adelphi University	Garden City, NY	146.0	34034.0	4852.0
+Ohio University	Athens, OH	146.0	21208.0	23513.0
+San Diego State University	San Diego, CA	146.0	18244.0	29234.0
+St. John Fisher College	Rochester, NY	146.0	31880.0	2805.0
+University at Albany--SUNY	Albany, NY	146.0	22244.0	12908.0
+University of Texas--Dallas	Richardson, TX	146.0	33654.0	15575.0
+Illinois State University	Normal, IL	152.0	20886.0	18426.0
+Immaculata University	Immaculata, PA	152.0	35210.0	1790.0
+Oklahoma State University	Stillwater, OK	152.0	20978.0	21046.0
+University of California--Merced	Merced, CA	152.0	39944.0	6237.0
+University of Illinois--Chicago	Chicago, IL	152.0	26526.0	17575.0
+University of La Verne	La Verne, CA	152.0	39900.0	2864.0
+University of Massachusetts--Lowell	Lowell, MA	152.0	29125.0	13266.0
+Seattle Pacific University	Seattle, WA	159.0	38940.0	3202.0
+University of Alabama--Birmingham	Birmingham, AL	159.0	17654.0	11511.0
+University of Maryland--Baltimore County	Baltimore, MD	159.0	24492.0	11243.0
+University of Rhode Island	Kingston, RI	159.0	28852.0	13641.0
+University of South Florida	Tampa, FL	159.0	17325.0	31111.0
+Biola University	La Mirada, CA	164.0	36696.0	4225.0
+Maryville University of St. Louis	St Louis, MO	164.0	27958.0	2795.0
+Missouri University of Science & Technology	Rolla, MO	164.0	26152.0	6841.0
+St. John's University	Queens, NY	164.0	39460.0	16210.0
+Virginia Commonwealth University	Richmond, VA	164.0	31608.0	24051.0
+Union University	Jackson, TN	169.0	30420.0	2829.0
+University of Hawaii--Manoa	Honolulu, HI	169.0	33764.0	13689.0
+Edgewood College	Madison, WI	171.0	27530.0	1813.0
+Florida Institute of Technology	Melbourne, FL	171.0	40446.0	3586.0
+University of Idaho	Moscow, ID	171.0	22040.0	9116.0
+University of Louisville	Louisville, KY	171.0	24626.0	15769.0
+University of Wyoming	Laramie, WY	171.0	16215.0	10045.0
+Ball State University	Muncie, IN	176.0	25428.0	16602.0
+Lipscomb University	Nashville, TN	176.0	29756.0	3030.0
+Mississippi State University	Mississippi State, MS	176.0	20142.0	17421.0
+Montclair State University	Montclair, NJ	176.0	20318.0	16336.0
+Texas Tech University	Lubbock, TX	176.0	22861.0	29237.0
+University of Central Florida	Orlando, FL	176.0	22467.0	54513.0
+University of New Mexico	Albuquerque, NM	176.0	21302.0	20522.0
+Andrews University	Berrien Springs, MI	183.0	27684.0	1733.0
+Azusa Pacific University	Azusa, CA	183.0	36120.0	5883.0
+University of Maine	Orono, ME	183.0	29498.0	9297.0
+West Virginia University	Morgantown, WV	183.0	21432.0	22498.0
+Widener University	Chester, PA	183.0	42870.0	3554.0
+Kent State University	Kent, OH	188.0	18376.0	23607.0
+North Dakota State University	Fargo, ND	188.0	19790.0	12037.0
+Pace University	New York, NY	188.0	42772.0	8747.0
+Robert Morris University	Moon Township, PA	188.0	28250.0	4497.0
+Suffolk University	Boston, MA	188.0	35578.0	5565.0
+University of Hartford	West Hartford, CT	188.0	37790.0	5246.0
+Bowling Green State University	Bowling Green, OH	194.0	18332.0	14334.0
+University of Houston	Houston, TX	194.0	25410.0	34716.0
+Western Michigan University	Kalamazoo, MI	194.0	25713.0	18567.0
+Indiana University-Purdue University--Indianapolis	Indianapolis, IN	197.0	29791.0	21985.0
+Lesley University	Cambridge, MA	197.0	25750.0	1520.0
+University of Alabama--Huntsville	Huntsville, AL	197.0	20622.0	6013.0
+University of Colorado--Denver	Denver, CO	197.0	29334.0	14036.0
+University of Nevada--Reno	Reno, NV	197.0	21052.0	17770.0
+California State University--Fullerton	Fullerton, CA	202.0	17596.0	33144.0
+Central Michigan University	Mount Pleasant, MI	202.0	23670.0	20498.0
+Louisiana Tech University	Ruston, LA	202.0	25851.0	10682.0
+South Dakota State University	Brookings, SD	202.0	11403.0	11007.0
+University of Alaska--Fairbanks	Fairbanks, AK	202.0	22469.0	7610.0
+University of North Carolina--Charlotte	Charlotte, NC	202.0	20193.0	22732.0
+University of North Dakota	Grand Forks, ND	202.0	18899.0	11577.0
+University of South Dakota	Vermillion, SD	202.0	11688.0	7435.0
+East Carolina University	Greenville, NC	210.0	22904.0	23039.0
+Montana State University	Bozeman, MT	210.0	23042.0	13707.0
+Old Dominion University	Norfolk, VA	210.0	27028.0	20101.0
+University of Missouri--Kansas City	Kansas City, MO	210.0	22714.0	11253.0
+Ashland University	Ashland, OH	214.0	20392.0	3716.0
+Dallas Baptist University	Dallas, TX	214.0	26180.0	3315.0
+Northern Illinois University	DeKalb, IL	214.0	23799.0	15027.0
+Nova Southeastern University	Ft. Lauderdale, FL	214.0	27660.0	4641.0
+Southern Illinois University--Carbondale	Carbondale, IL	214.0	27130.0	13031.0
+University of Montana	Missoula, MT	214.0	24562.0	8732.0
+Benedictine University	Lisle, IL	220.0	32170.0	3347.0
+California State University--Fresno	Fresno, CA	220.0	17209.0	21482.0
+Gardner-Webb University	Boiling Springs, NC	220.0	29850.0	2615.0
+New Mexico State University	Las Cruces, NM	220.0	21234.0	12526.0
+Shenandoah University	Winchester, VA	220.0	31322.0	2010.0
+Tennessee Technological University	Cookeville, TN	220.0	24800.0	9801.0
+University of Massachusetts--Boston	Boston, MA	220.0	32023.0	12949.0
+University of Massachusetts--Dartmouth	North Dartmouth, MA	220.0	19270.0	7295.0
+University of Missouri--St. Louis	St. Louis, MO	220.0	26277.0	13569.0
+University of North Carolina--Greensboro	Greensboro, NC	220.0	21595.0	15951.0
+University of Southern Mississippi	Hattiesburg, MS	220.0	16094.0	11840.0
+Utah State University	Logan, UT	220.0	19772.0	25259.0
