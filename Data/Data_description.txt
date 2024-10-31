@@ -1,0 +1,3 @@
+Suppose that there are 6 distinct ingredients that can be used in different quantities to make 100 distinct food items. The dataset Food_Ingredients.csv consists of number of units of each of the 6 ingredients required to make each of the 100 food items.
+
+Suppose that all the 6 ingredients can be purchased from 32 distinct grocery stores. The dataset Ingredient_prices.csv consists of dollar price per unit of each of the 6 ingredients in each of the 32 grocery stores.
